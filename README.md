@@ -1,5 +1,5 @@
-# How to Create a BungeeCord Server on Debian 9!
-### Hier zeige ich wie man einen BungeeCord Server ganz einfach für Debian 9 installiert :D
+# How to Create a BungeeCord Server on Debian 10!
+### Hier zeige ich wie man einen BungeeCord Server ganz einfach für Debian 10 installiert :D
 
 
 ``BungeeCord.jar`` von [__*md-5.net*__](https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar "BungeeCord hier Downloaden!")
